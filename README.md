@@ -48,7 +48,7 @@ Evaluating sales representatives' performance in terms of quantity sold provides
 Determining the most frequently used shipment mode by sales representatives unveils operational preferences. Streamlining processes related to the preferred mode can enhance efficiency and reduce costs.
 
 ***
-Data Visualization
+## **Data Visualization**
 ![](Excel_Dashboard.jpg)
 
 ***
